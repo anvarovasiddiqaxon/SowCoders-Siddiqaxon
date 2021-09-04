@@ -1,0 +1,58 @@
+p{
+  color: red;
+  font-family: serif;
+  font-size: 100px;
+  text-align: center;
+  background-color: white;
+  font-style: italic;
+  font-weight: normal;
+}
+body{
+  background-color: pink;
+margin: 0;
+}
+.topnav{
+  padding: 0px;
+  margin: 0;
+  overflow: hidden;
+  background-color: white;
+}
+.topnav a{
+  float: left;
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+.topnav a{
+  display: block;
+  padding: 14px 16px;
+  color: red;
+  text-decoration: none;
+}
+h2{
+  color: red;
+  font-family: serif;
+  text-align: center;
+  font-style: italic;
+  font-weight: normal;
+}
+body{
+  text-align: center;
+}
+.menu, .footerbar{
+  background-color: white;
+  margin: 0;
+  padding: 0px;
+  overflow: hidden;
+}
+.menu, .footerbar a{
+  display: block;
+  padding: 14px 16px;
+  color: red;
+  text-decoration: none;
+  float: right;
+}
+.menu a:hover, .footerbar a:hover{
+  background-color: white;
+}
